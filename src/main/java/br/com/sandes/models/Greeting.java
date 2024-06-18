@@ -1,4 +1,4 @@
-package br.com.sandes;
+package br.com.sandes.models;
 
 public class Greeting {
 
